@@ -1,4 +1,4 @@
-# 🐳 Docker Cheat Sheet – Apna College
+# 🐳 Docker Cheat Sheet 
 
 A quick reference guide for essential Docker commands.
 
